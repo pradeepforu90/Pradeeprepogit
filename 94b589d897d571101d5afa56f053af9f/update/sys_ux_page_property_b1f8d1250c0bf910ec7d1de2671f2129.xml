@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="Pradeep Workspace">bdf8d125e30bf9106ef6ae2f7db4e238</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 09:44:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>b1f8d1250c0bf910ec7d1de2671f2129</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Pradeep Workspace" source="x_921662_pradeep_w">94b589d897d571101d5afa56f053af9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pradeep Workspace">94b589d897d571101d5afa56f053af9f</sys_scope>
+        <sys_update_name>sys_ux_page_property_b1f8d1250c0bf910ec7d1de2671f2129</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 09:44:33</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_921662_pradeep_w.bdf8d125e30bf9106ef6ae2f7db4e238.root.wbApplicabilityConfigId</unique_name>
+        <value>36f81525970bf9101d5afa56f053af9a</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=b1f8d1250c0bf910ec7d1de2671f2129"/>
+</record_update>

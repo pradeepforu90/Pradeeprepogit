@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>customer_account,project_action,evaluation,evaluation_execution,evaluation_parameter_result,sn_csm_account_access,account_address_relationship,ecc_action,evaluation_parameter</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>pradeep-workspace Search Profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_921662_pradeep_w_pradeep_workspace_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 09:44:35</sys_created_on>
+        <sys_id>63f85525970bf9101d5afa56f053af75</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>x_921662_pradeep_w_pradeep_workspace_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Pradeep Workspace" source="x_921662_pradeep_w">94b589d897d571101d5afa56f053af9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pradeep Workspace">94b589d897d571101d5afa56f053af9f</sys_scope>
+        <sys_update_name>ais_dictionary_63f85525970bf9101d5afa56f053af75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 09:44:37</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

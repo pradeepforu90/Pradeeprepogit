@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <name>Ui Builder</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://icanhazdadjoke.com/</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 14:25:32</sys_created_on>
+        <sys_id>04d267b997c77d101d5afa56f053af0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ui Builder</sys_name>
+        <sys_package display_value="Pradeep Workspace" source="x_921662_pradeep_w">94b589d897d571101d5afa56f053af9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pradeep Workspace">94b589d897d571101d5afa56f053af9f</sys_scope>
+        <sys_update_name>sys_rest_message_04d267b997c77d101d5afa56f053af0d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 14:25:32</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>

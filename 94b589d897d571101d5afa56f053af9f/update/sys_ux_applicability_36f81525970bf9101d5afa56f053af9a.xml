@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_921662_pradeep_w.Audience for app pradeep-workspace</api_name>
+        <description/>
+        <name>Audience for app pradeep-workspace</name>
+        <role_names/>
+        <roles name="admin">2831a114c611228501d4ea6c309d626d</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 09:44:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>36f81525970bf9101d5afa56f053af9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app pradeep-workspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Pradeep Workspace" source="x_921662_pradeep_w">94b589d897d571101d5afa56f053af9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pradeep Workspace">94b589d897d571101d5afa56f053af9f</sys_scope>
+        <sys_update_name>sys_ux_applicability_36f81525970bf9101d5afa56f053af9a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 09:44:33</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

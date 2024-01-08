@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-12 14:28:37</sys_created_on>
+        <sys_id>f193a7f997c77d101d5afa56f053afc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.921662.rest-api-check.*.canvas_user</sys_name>
+        <sys_package display_value="Pradeep Workspace" source="x_921662_pradeep_w">94b589d897d571101d5afa56f053af9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pradeep Workspace">94b589d897d571101d5afa56f053af9f</sys_scope>
+        <sys_security_acl display_value="x.921662.rest-api-check.*">e593a7f997c77d101d5afa56f053afbe</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f193a7f997c77d101d5afa56f053afc6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-12 14:28:37</sys_updated_on>
+        <sys_user_role display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="sn_csm_account_access">active=true</condition>
+        <group/>
+        <name>Pradeep Workspace - sn_csm_account_access</name>
+        <roles/>
+        <source_table>sn_csm_account_access</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 09:44:35</sys_created_on>
+        <sys_id>9bf85525970bf9101d5afa56f053af58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pradeep Workspace - sn_csm_account_access</sys_name>
+        <sys_package display_value="Pradeep Workspace" source="x_921662_pradeep_w">94b589d897d571101d5afa56f053af9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pradeep Workspace">94b589d897d571101d5afa56f053af9f</sys_scope>
+        <sys_update_name>sys_search_source_9bf85525970bf9101d5afa56f053af58</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 09:44:35</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=9bf85525970bf9101d5afa56f053af58"/>
+</record_update>
